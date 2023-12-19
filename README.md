@@ -4,6 +4,7 @@
 ## Introduction
 * The project only handles logic in javascript.
 * The project can manage pet,  manage breed, search pet.
+* Data save in local storage.
 
 ## Link Live
 
