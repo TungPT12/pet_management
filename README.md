@@ -2,33 +2,18 @@
 
 
 ## Introduction
-* Project provide data for FE and process logic.
-* The project can manage user,  manage product, manage category, manage order,  chat, login with role admin or counselors, logout.
+* The project only handles logic in javascript.
+* The project can manage pet,  manage breed, search pet.
 
 ## Link Live
 
-* https://eccomerce-admin.netlify.app
-* account for admin : 
-    - email: boypham12042000@gmail.com
-    - password: 12345678
-* account for Counselor : 
-    - email: abc@gmail.com
-    - password: 12345678
+* https://tungpt12.github.io/pet_management/
+
 
 ## Build Withs
 
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
-
-## Technology
-
-* react bootstrap version ^5.3.0 (https://react-bootstrap.netlify.app/docs/getting-started/introduction/).
-* axios version ^1.5.1 (https://www.npmjs.com/package/axios).
-* react-redux: version ^8.1.3 (https://react-redux.js.org/).
-* reduxjs/toolkit version ^1.9.7 (https://redux-toolkit.js.org/).
-* react-date-range version ^1.4.0, (https://www.npmjs.com/package/react-date-range).
-* socket.io-client version ^4.7.2, (https://www.npmjs.com/package/socket.io-client).
-* react-router-dom version ^6.15.0, (https://www.npmjs.com/package/react-router-dom).
 
 ## Getting Started
 
@@ -48,18 +33,6 @@ Before you continue, ensure you meet the following requirements:
 
 * Phone number: 0988486443.
 * Email: boypham12042000@gmail.com.
-
-
-
-## Problem
-
-* Not accept cookie when deploy on netlify (https://app.netlify.com/), because the third party prevent cookie.
-
-
-
-
-
-
 
 
 
